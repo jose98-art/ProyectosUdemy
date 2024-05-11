@@ -1,0 +1,7 @@
+@use 'variables'; //llamado de las variables desde otro archivo
+body{
+    font-family: variables.$fuente_principal; // llamado de las variables en las propiedades
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
